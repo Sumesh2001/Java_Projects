@@ -118,7 +118,7 @@ class project
 		{
 			case 1:
 							
-				String c_n="Sumesh";
+				String c_n="User_name";
 				String c_pwd="1234";
 				int str1,str2,enroll;
 				
